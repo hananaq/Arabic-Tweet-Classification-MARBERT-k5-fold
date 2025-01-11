@@ -1,4 +1,4 @@
-# Arabic-Tweet-Classification-MARBERT
+# Arabic-Tweet-Classification-MARBERT-k5-fold
 This repository contains a Jupyter Notebook designed for Arabic text classification using the MARBERT model, k-fold cross-validation was used to ensure robust performance evaluation.
 MARBERT is a state-of-the-art transformer-based model fine-tuned for tasks involving Arabic natural language processing (NLP).
 
