@@ -54,9 +54,9 @@ The performance of the trained MARBERT model was evaluated using 5-fold cross-va
 <br>
 Confusion Matrix:<br>
 [[11189    56]<br>
- [   64 14851]]<br>
+ [   64 14851]]<br><br>
 <strong>Overall Accuracy:</strong> 0.9954
-<br>
+<br><br>
 These results demonstrate the model's excellent performance in accurately classifying both Ham and Spam tweets, with a near-perfect accuracy and strong F1-scores for both classes.
 
 
