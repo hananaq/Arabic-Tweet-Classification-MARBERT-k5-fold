@@ -2,7 +2,7 @@
 This repository contains a Jupyter Notebook designed for Arabic text classification using the MARBERT model, k-fold cross-validation was used to ensure robust performance evaluation.
 MARBERT is a state-of-the-art transformer-based model fine-tuned for tasks involving Arabic natural language processing (NLP).
 
-<h3>Dataset <h3>
+<h3>Dataset </h3>
 the dataset used to train the model can be obtained from the following link https://www.sciencedirect.com/science/article/pii/S2352340923009472#bib0001.
 it's collected from Twitter and has two classes Spam and Ham.<br>
 I have also added the dataset to this project for ease of use. <br>
